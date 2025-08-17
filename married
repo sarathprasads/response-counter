@@ -1,0 +1,20 @@
+# Uncle Escape App 🚪😂
+
+## 📌 Project Overview
+This app measures how many times uncles ask *"When are you getting married?"* at family functions.  
+It then generates funny **escape routes** using a map API.
+
+## ⚙️ How It Works
+1. User opens the app during a family function.
+2. Each time someone asks the question, they press a counter button.
+3. The app logs the count.
+4. Once the count exceeds a threshold, the app generates an **escape map** with directions.
+
+## 🛠️ Technologies Used
+- Frontend: React Native
+- Backend: Firebase
+- Maps: Google Maps API
+
+## 🚀 Future Improvements
+- Voice detection (so the app automatically detects the question).
+- Share escape maps with friends.
